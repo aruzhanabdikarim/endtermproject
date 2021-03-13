@@ -1,0 +1,11 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "This project allows users to access images, gallery and videos via localhost. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tumabekova Aruzhan MT-2001",
+  "license": "ISC"
+}
